@@ -1,1 +1,1 @@
-# Studies_React_Native
+# Studies_React_Nativesite: https://reactnative.dev/chocolatey: https://chocolatey.org/installhttps://blog.rocketseat.com.br/templates-react-native/https://reactnavigation.org/Criando app reactnpx react-native init Calculator
