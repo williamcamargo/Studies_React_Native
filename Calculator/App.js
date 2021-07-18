@@ -20,8 +20,6 @@ let estados = {
   ponto: false,
 }
 
-
-
 export default function App() {
   const [vtela, setVtela] = useState(estados.valorTela);
   const [vres, setVres] = useState(estados.resultado);
